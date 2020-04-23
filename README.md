@@ -1,4 +1,4 @@
-# Some Notebooks to try out code posted on Stack Overlflow
+# Some Notebooks to try out code posted on Stack Overflow
 
 These snippets are built as Jupyter notebooks, which can be run online via Binder.
 
